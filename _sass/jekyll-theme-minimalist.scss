@@ -4,10 +4,10 @@
 
 body {
   background-color: var(--clr-bg);
-  padding:50px;
+  padding:100px;
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
-  font-weight:400;
+  font-weight:500;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -63,7 +63,7 @@ p.link {
 // added
 ul.link {
   list-style-type: none; /* Remove bullets */
-  margin: 0; /* To remove default bottom margin */ 
+  margin: 0; /* To remove default bottom margin */
   padding: 0.4px; /* To remove default left padding */
 }
 
@@ -139,12 +139,13 @@ kbd {
 }
 
 .sidebar {
-  width:185px;
+  width:240px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   top: 0;
-  padding: 58px 0 50px 0;
+  left: 150px;
+  padding: 100px 0 100px 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -212,7 +213,7 @@ footer {
     padding: initial;
     display: initial;
     height: initial;
-    overflow: initial;    
+    overflow: initial;
   }
 
   footer {
@@ -254,7 +255,7 @@ footer {
     right:50px;
     top:52px;
   }
-  
+
   .link-wrapper {
     display: none !important;
   }

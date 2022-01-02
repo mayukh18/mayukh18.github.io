@@ -24,9 +24,9 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
-  <body>
+  <body class="wrapper">
     <div class="wrapper">
-      <div class="sidebar">
+      <div class="sidebar" style="width: 240px;">
         <header>
           {% if site.logo %}
             <img class="img-circle" rel="prefetch" src="{{site.logo | relative_url}}" alt="Logo">
@@ -39,7 +39,7 @@
           {% endif %}
 
           {% if site.email %}
-            <p class="addr">&#x2709;&nbsp;{{ site.email }}</p>
+            <p class="addr" style="word-break: normal; white-space: normal;">&#x2709;&nbsp;{{ site.email }}</p>
           {% endif %}
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
