@@ -20,7 +20,7 @@ counterparts of collaborative filtering, svd and factorization machines.
 
 Published package downloaded over 11k times on pypi.
 
-[[code]](https://github.com/mayukh18/reco) [`Python`, `Numpy`, `Cython`, `Scipy`, `Tensorflow`
+[[code]](https://github.com/mayukh18/reco) [`Python`, `Numpy`, `Cython`, `Scipy`, `Tensorflow`]
 
 
 ### BlindChat 
@@ -49,6 +49,7 @@ Developed a minimalistic website that demonstrates the impacts of COVID through 
 
 ### DeepGazePointer
 *— Gaze prediction with Deep Learning*
+
 Created a system to estimate a person’s point of gaze on a computer screen by using machine learning and
  traditional image processing techniques in real-time from a captured live feed. This
  POC influenced one half of my gaze-estimation based content recommender that I developed
