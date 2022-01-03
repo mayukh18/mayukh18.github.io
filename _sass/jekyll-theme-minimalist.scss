@@ -88,9 +88,14 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
   color: var(--clr-code-text);
-}
+  background: var(--clr-code-bg);
+  border-radius: 6px;
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  }
 
 pre {
   padding:8px 15px;

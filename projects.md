@@ -20,7 +20,7 @@ counterparts of collaborative filtering, svd and factorization machines.
 
 Published package downloaded over 11k times on pypi.
 
-[[Code]](https://github.com/mayukh18/reco) | Python | Numpy | Cython | Scipy | Tensorflow
+[[code]](https://github.com/mayukh18/reco) [`Python`, `Numpy`, `Cython`, `Scipy`, `Tensorflow`
 
 
 ### BlindChat 
@@ -32,7 +32,7 @@ Implemented server backend in Python and Flask with user data stored in SQL data
  It had over 1/2 million messages exchanged in 2017. Had to shut it down since it was getting
  too big to manage by myself.
  
- [[Code]](https://github.com/mayukh18/BlindChat) | Python | Flask | SQL | HTML | CSS
+ [[code]](https://github.com/mayukh18/BlindChat) [`Python`, `Flask`, `SQL`, `HTML`, `CSS`]
 
 
 ### CovidExplore 
@@ -45,5 +45,15 @@ Developed a minimalistic website that demonstrates the impacts of COVID through 
   A related [medium article](https://towardsdatascience.com/assessing-the-impact-of-the-coronavirus-lockdown-on-our-environment-through-data-2905535da51e)
    that I wrote which gave me the idea for creating this.
    
- [[Code]](https://github.com/mayukh18/covidexplore) | `Python` | `Flask` | `Plotly` | `Javascript` | `HTML` | `CSS` 
+ [[code]](https://github.com/mayukh18/covidexplore) [`Python`, `Flask`, `Plotly`, `Javascript`, `HTML`, `CSS`] 
+
+### DeepGazePointer
+*— Gaze prediction with Deep Learning*
+Created a system to estimate a person’s point of gaze on a computer screen by using machine learning and
+ traditional image processing techniques in real-time from a captured live feed. This
+ POC influenced one half of my gaze-estimation based content recommender that I developed
+ at Samsung. The training mechanism of the gaze estimator was completely influenced by this
+ project.
+ 
+ [[code]](https://github.com/mayukh18/deepgazepointer) [`Python`, `OpenCV`, `Keras`, `PIL`] 
 
