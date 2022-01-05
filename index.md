@@ -27,6 +27,7 @@ I sometimes write a few articles on medium. [This](https://towardsdatascience.co
 Third Workshop on Computer Vision for Fashion, Art and Design, CVPR 2020 
 [[code]](https://github.com/mayukh18/Hybrid-Style-Siamese-Network)
 [[pdf]](https://arxiv.org/pdf/1912.05014.pdf)
+[[video]](https://www.youtube.com/watch?v=AyBzlWVhkRw)
 
 ## Software
 
