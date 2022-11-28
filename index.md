@@ -6,7 +6,8 @@ title: Mayukh Bhattacharyya
 ## Hi there!
 
 I am **Mayukh Bhattacharyya**. I am a Software Engineer with 4 years of experience at companies like
-Samsung and Applied Materials. Currently I am pursuing my Master's degree at Stony Brook University - SUNY.
+Samsung and Applied Materials. Currently I am pursuing my Master's degree at SUNY Stony Brook University.
+Most recently I interned at Snap Inc where I worked on recommendation systems.
 
 My expertise and interests lie at the juncture of Machine Learning and Software Development.
 I have developed applications running on minimalistic Linux OS supporting display devices, complex computer
@@ -24,7 +25,7 @@ I sometimes write a few articles on medium. [This](https://towardsdatascience.co
 
 ***Deciphering Environmental Air Pollution with Large Scale City Data.***
 *Mayukh Bhattacharyya, Sayan Nag and Udita Ghosh.* **(Best Paper in AI for Good Track)**\
-International Joint Conference on Artificial Intelligence (IJCAI-22)
+International Joint Conference on Artificial Intelligence (IJCAI 2022)
 [[code]](https://github.com/mayukh18/DEAP)
 [[pdf]](https://www.ijcai.org/proceedings/2022/0698.pdf)
 <!--[[video]](https://www.youtube.com/watch?v=AyBzlWVhkRw)-->
@@ -35,6 +36,11 @@ Workshop on Computer Vision for Fashion, Art and Design, CVPR 2020
 [[code]](https://github.com/mayukh18/Hybrid-Style-Siamese-Network)
 [[pdf]](https://arxiv.org/pdf/1912.05014.pdf)
 [[video]](https://www.youtube.com/watch?v=AyBzlWVhkRw)
+
+***SERF: Towards better training of deep neural networks using log-Softplus ERror activation Function.***
+*Mayukh Bhattacharyya and Sayan Nag.*\
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)
+[[pdf]](https://arxiv.org/pdf/2108.09598.pdf)
 
 ## Software
 
