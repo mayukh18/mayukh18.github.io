@@ -15,8 +15,8 @@ vision-based solutions revolutionising cancer care, and more things in between. 
 multiple packages/apps on my own which have found some use in the open-source community.
 The satisfaction of creating something useful keeps me going!
 
-I love solving machine learning problems. I am somewhat active on [Kaggle](https://www.kaggle.com/mayukh18), where
- I am at Expert Level on two separate tracks and my highest rank on competitions leaderboard is 646 (out of ~170k).
+I love solving machine learning problems. I am somewhat active on [Kaggle](https://www.kaggle.com/mayukh18), where I tend to share my works. 
+I am on Master Level in the Notebooks track and hold above 99 %ile ranks in both the Competitions and Notebooks tracks.
 
 I sometimes write a few articles on medium. [This](https://towardsdatascience.com/assessing-the-impact-of-the-coronavirus-lockdown-on-our-environment-through-data-2905535da51e)
  may be an interesting read where I analysed our environmental impacts at the onset of COVID-19.
