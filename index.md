@@ -5,9 +5,9 @@ title: Mayukh Bhattacharyya
 
 ## Hi there!
 
-I am **Mayukh Bhattacharyya**. I am a Software Engineer with 4 years of experience at companies like
-Samsung and Applied Materials. Currently I am pursuing my Master's degree at SUNY Stony Brook University.
-Most recently I interned at Snap Inc where I worked on recommendation systems.
+I am **Mayukh Bhattacharyya**. I am a Software Engineer with over 4 years of experience at companies like
+Snap Inc, Samsung and Applied Materials. Currently I am working at Belva AI where I am building conversational agents
+for phone calls and other purposes.
 
 My expertise and interests lie at the juncture of Machine Learning and Software Development.
 I have developed applications running on minimalistic Linux OS supporting display devices, complex computer
@@ -15,7 +15,7 @@ vision-based solutions revolutionising cancer care, and more things in between. 
 multiple packages/apps on my own which have found some use in the open-source community.
 The satisfaction of creating something useful keeps me going!
 
-I love solving machine learning problems. I am somewhat active on [Kaggle](https://www.kaggle.com/mayukh18), where I tend to share my works. 
+I love machine learning. I am somewhat active on [Kaggle](https://www.kaggle.com/mayukh18), where I tend to share my works. 
 I am on Master Level in the Notebooks track and hold above 99 %ile ranks in both the Competitions and Notebooks tracks.
 
 I sometimes write a few articles on medium. [This](https://towardsdatascience.com/assessing-the-impact-of-the-coronavirus-lockdown-on-our-environment-through-data-2905535da51e)
